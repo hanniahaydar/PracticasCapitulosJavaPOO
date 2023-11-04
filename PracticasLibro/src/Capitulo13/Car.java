@@ -20,6 +20,6 @@ public class Car {
 	 color.equals(otherCar.color);
 	 } 
 	 public boolean sameColorsAs() {
-		 
+		 System.out.println.equals(otherCar);
 	 }
 }

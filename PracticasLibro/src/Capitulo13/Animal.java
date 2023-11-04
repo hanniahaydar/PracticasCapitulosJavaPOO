@@ -5,4 +5,7 @@ public class Animal {
 	 {
 	 Animal sparky = new Dog();
 	 Animal lassie = new Animal();
+	 System.out.println(
+	"sparky = " + sparky + "\tlassie = " + lassie);
+	 }
 }
