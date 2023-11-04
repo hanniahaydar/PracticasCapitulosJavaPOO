@@ -19,5 +19,7 @@ public class Car {
 	 year == otherCar.year &&
 	 color.equals(otherCar.color);
 	 } 
-	 public boolean sameColorsAs()[]
+	 public boolean sameColorsAs() {
+		 
+	 }
 }
